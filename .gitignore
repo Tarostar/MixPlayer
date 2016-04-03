@@ -1,0 +1,10 @@
+*.user
+release
+debug
+*.sdf
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.autosave
+Makefile.Debug
+Makefile.Release

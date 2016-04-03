@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>NavBar.qml</file>
+        <file>Separator.qml</file>
+        <file>AudioList.qml</file>
+        <file>TopBar.qml</file>
+        <file>ListPlayer.qml</file>
+        <file>Controller.qml</file>
+        <file>ControllerButton.qml</file>
+        <file>ControllerInterface.qml</file>
+        <file>ControllerDisplay.qml</file>
+        <file>Search.qml</file>
+        <file>PositionSlider.qml</file>
+    </qresource>
+</RCC>
