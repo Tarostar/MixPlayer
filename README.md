@@ -42,3 +42,9 @@ The player icons are fairly simple:
 Basic information about the song playing is also presented.
 
 The current time and date is always presented at the top, along with a simple timer in square brackets that counts how long the app has been running.
+
+# Eperimental Features
+
+When playing a song/sound it is possible to write associated text for your own notes, lyrics, etc. This can be done in the app and is remembered between sessions. The text is stored in the mobile or PC's app data folder or the users home folder. Each song gets its own text file with the same name as the song.
+
+It is also possible to add images that will be displayed in the player. These must be named the same as the mp3 file (minus the extension) and placed in the same folder as the text files. When the song is reloaded the image should be displayed.
